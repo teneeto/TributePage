@@ -11,6 +11,9 @@ html,body{
   border-radius:5px;
   background:#eee;
 }
+#title{
+  color: rgb(211, 100, 100);
+}
 img{
   max-width: 100%; 
   display: block; 
@@ -26,6 +29,7 @@ img{
 }
 #img-caption{
   margin:15px;
+  background-color: moccasin;
 }
 .headline{
   margin-top:50px;
@@ -37,6 +41,7 @@ ul{
   text-align:left;
 }
 li{
+  list-style-type: square;
   margin: 10px;
 }
 blockquote{
