@@ -19,12 +19,15 @@ img{
   display: block; 
   height: auto;
   margin: auto;
+  border: 0 solid white;
+  border-radius: 5px;
 }
 #img-div{
   margin:-5px;
   margin-top:20px;
   width:100%;
   border:5px solid white;
+  border-radius: 5px;
   background:white;
 }
 #img-caption{
